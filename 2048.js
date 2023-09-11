@@ -140,7 +140,7 @@ function slideLeft(){
         }
     }
     if (isGameOver()) {
-        alert("Game Over!");
+        alert("Game Over! -notso.engineered");
     }
 }
 function slideRight(){
@@ -158,7 +158,7 @@ function slideRight(){
         }
     }
     if (isGameOver()) {
-        alert("Game Over!");
+        alert("Game Over! -notso.engineered");
     }
 }
 
@@ -180,7 +180,7 @@ function slideUp(){
 
     }
     if (isGameOver()) {
-        alert("Game Over!");
+        alert("Game Over! -notso.engineered");
     }
 }
 function slideDown(){
@@ -203,7 +203,7 @@ function slideDown(){
 
     }
     if (isGameOver()) {
-        alert("Game Over!");
+        alert("Game Over! -notso.engineered");
     }
 }
 
